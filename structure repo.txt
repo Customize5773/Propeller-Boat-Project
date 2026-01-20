@@ -1,0 +1,20 @@
+propeller-boat/
+├── README.md
+├── docs/
+│   ├── system_overview.md
+│   ├── control_concept.md
+│   └── power_system.md
+├── hardware/
+│   ├── hull.md
+│   ├── propulsion.md
+│   ├── electronics.md
+│   └── waterproofing.md
+├── Control/
+│   ├── src/
+│   │   └── main.ino
+│   ├── lib/
+│   │   └── README.md
+│   └── README.md
+├── references/
+│   └── links.md
+└── .gitignore
