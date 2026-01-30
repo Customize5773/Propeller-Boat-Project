@@ -1,0 +1,4 @@
+JALC Boat GoPro Adapter up to 5 cameras. by jalucenyo on Thingiverse: https://www.thingiverse.com/thing:931800
+
+Summary:
+We have designed an adapter for mounting the camera GoPro, we can mount up to 5, 3 surface and two underwater. To avoid losing any details.  Others parts of Boat:Body and arms  Propeller and engine support  New head Boat with fan and window camera  Wifi Antenna Support  ComunityIf you liked the project I invite you to visit JALC Boat and join the community you can help JALC Boat Forum where you can leave your questions or help others.  Updates:Julio - 13 - 2015 : Upload video Swimming Pool 01  DisclaimerThis thing and all other published material cannot be considered as a final product and takes no responsibility of its use.It must be considered as an experimental and early released product developed by the Innovation and Robotics Department staff with the intention to share it and test it as soon as possible within the community.     
