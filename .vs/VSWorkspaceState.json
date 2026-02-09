@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\control",
-    "\\fritzing\\2",
-    "\\fritzing\\3 (3D Printed Arduino RC Airboat With Controller)"
+    "\\fritzing",
+    "\\other",
+    "\\other\\JALC Boat, Aquatic Robot Platform",
+    "\\other\\JALC Boat, Aquatic Robot Platform\\JALC Boat GoPro Adapter up to 5 cameras. - 931800",
+    "\\other\\JALC Boat, Aquatic Robot Platform\\JALC Boat GoPro Adapter up to 5 cameras. - 931800\\files"
   ],
-  "SelectedNode": "\\fritzing",
+  "SelectedNode": "\\other\\JALC Boat, Aquatic Robot Platform\\JALC Boat GoPro Adapter up to 5 cameras. - 931800\\files\\gorpo_support_bottom_arm0.stl",
   "PreviewInSolutionExplorer": false
 }

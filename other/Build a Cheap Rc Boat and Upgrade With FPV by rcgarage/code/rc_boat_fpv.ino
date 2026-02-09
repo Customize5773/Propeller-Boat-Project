@@ -9,8 +9,6 @@
  * - Servo for rudder (optional)
  * - FPV camera support
  * 
- * Author: Claude
- * Date: 2026
  */
 
 #include <SPI.h>
