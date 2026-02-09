@@ -8,7 +8,6 @@
  * - Push buttons for lights and FPV control
  * - OLED display (optional)
  * 
- * Author: Claude
  * Date: 2026
  */
 
